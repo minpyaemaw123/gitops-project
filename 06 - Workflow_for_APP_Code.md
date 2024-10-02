@@ -1,5 +1,5 @@
 # Workflow for APP CODE
----
+
 - Open vprofile-action repo in Visual Studio Code.
 
 ![](imgs/vprofile-action-files.png)

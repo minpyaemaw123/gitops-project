@@ -1,5 +1,4 @@
 # Staging Workflow for Terraform Code by GitHub Actions
----
 
 Create the GitHub actions workflow in the repository **iac-vprofile**
 
