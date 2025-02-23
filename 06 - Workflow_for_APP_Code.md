@@ -15,6 +15,8 @@ The following images **minpyaemaw/vproapp and minpyaemaw/vprodb**, used in the d
 Kubernetes Definition Files
 ---
 
+***For each of the service in the application Architecture Overveiw, there will be a service and deployment definition file.***
+
 Secrets for database connection and rabbit Mq, encoded in base64
 
 app-secret.yml
