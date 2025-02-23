@@ -102,7 +102,6 @@ The **checkout** step is essential in a GitHub Actions workflow because it retri
 - Commit and push terraform.yml to the repository
 - Test the workflow by making changes in the repository and push to the remote repository.
 - The workflow started showing up in Actions tab.
-- Image
 - I have issue with Terraform Versions, so I use 1.6.3 and the workflow stared working.
 - Until now, "Terraform Plan" will only be executed when there are code pushes to main and stage 
 
